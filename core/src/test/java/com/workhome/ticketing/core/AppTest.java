@@ -1,4 +1,4 @@
-package com.workhome.eticket;
+package com.workhome.ticketing.core;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
